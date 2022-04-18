@@ -1,7 +1,7 @@
-left-column {
+.left-column {
     background-color: aquamarine;
 }
 
-right-column {
+.right-column {
 background-color: beige;
 }
